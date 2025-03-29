@@ -14,7 +14,7 @@ Approach1.ipynb, Approach2.ipynb
 
 ### Task 3: Evaluation and Results
 
-Task3.txt: Documentation of decisions made using ChatGPT for buy/hold/sell signals. ChatGPT Session Link
+Task3.txt: Documentation of decisions made using ChatGPT for buy/hold/sell signals
 
 TASK3PLOT.png: Visualization of the portfolio value over time based on the strategies applied.
 
